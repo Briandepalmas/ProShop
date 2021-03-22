@@ -1,0 +1,26 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN ecommerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Briandepalmas/ProShop.git"
+  },
+  "author": "Brian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Briandepalmas/ProShop/issues"
+  },
+  "homepage": "https://github.com/Briandepalmas/ProShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
